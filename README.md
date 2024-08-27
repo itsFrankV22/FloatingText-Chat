@@ -11,7 +11,7 @@ Si hablas Español visita este repostirio en idioma: [Spanish](github.com/itsFra
 **To install the plugin on your TShock server, follow these steps:**
 
 1. **Download the Release:**
-   - Go to the [Releases]([https://github.com/tuusuario/tu-repositorio/releases](https://github.com/itsFrankV22/FloatingText-Chat/releases/tag/FloatingText)) section of this repository on GitHub.
+   - Go to the [Releases](https://github.com/itsFrankV22/FloatingText-Chat/releases/) section of this repository on GitHub.
    - Search for the latest release available.
    - Download the `.zip` or `.dll` file corresponding to your version of TShock.
 
