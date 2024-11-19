@@ -1,4 +1,7 @@
 # FloatingText-Chat
+
+If you speak another language please visit [README_en.md]()
+
 - Plugin de TShock: Muestra textos flotantes sobre los jugadores cuando envían un mensaje en el chat
 - Ahora Compatible con **[Floating-ItemDecoPlugin](https://github.com/itsFrankV22/ItemsDeco-Plugin)**
 
