@@ -2,7 +2,7 @@
 - Tshock Plugin: Shows Floating texts above players when they send a message in chat
 - Now compatible with **[Floating-ItemDecoPlugin](https://github.com/itsFrankV22/ItemsDeco-Plugin)**
 
-Si hablas Español visita este repostirio en idioma: [Spanish](https://github.com/itsFrankV22/FloatingText-Chat/blob/main/README_SPANISH.md)
+Si hablas Español visita este repostirio en idioma: **[Spanish](https://github.com/itsFrankV22/FloatingText-Chat/blob/main/README_SPANISH.md)**
 
 
 > [!NOTE]
