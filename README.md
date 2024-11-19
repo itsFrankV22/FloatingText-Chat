@@ -1,5 +1,6 @@
 # FloatingText-Chat
-Tshock Plugin: Shows Floating texts above players when they send a message in chat
+- Tshock Plugin: Shows Floating texts above players when they send a message in chat
+- Now compatible with 
 
 Si hablas Español visita este repostirio en idioma: [Spanish](https://github.com/itsFrankV22/FloatingText-Chat/blob/main/README_SPANISH.md)
 
