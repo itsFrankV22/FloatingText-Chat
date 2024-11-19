@@ -1,0 +1,13 @@
+C:\Users\FrankV22\source\repos\FloatingText\FloatingText\bin\Debug\net6.0\HttpServer.dll
+C:\Users\FrankV22\source\repos\FloatingText\FloatingText\bin\Debug\net6.0\FloatingText.deps.json
+C:\Users\FrankV22\source\repos\FloatingText\FloatingText\bin\Debug\net6.0\FloatingText.dll
+C:\Users\FrankV22\source\repos\FloatingText\FloatingText\bin\Debug\net6.0\FloatingText.pdb
+C:\Users\FrankV22\source\repos\FloatingText\FloatingText\obj\Debug\net6.0\FloatingText.csproj.AssemblyReference.cache
+C:\Users\FrankV22\source\repos\FloatingText\FloatingText\obj\Debug\net6.0\FloatingText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FrankV22\source\repos\FloatingText\FloatingText\obj\Debug\net6.0\FloatingText.AssemblyInfoInputs.cache
+C:\Users\FrankV22\source\repos\FloatingText\FloatingText\obj\Debug\net6.0\FloatingText.AssemblyInfo.cs
+C:\Users\FrankV22\source\repos\FloatingText\FloatingText\obj\Debug\net6.0\FloatingText.csproj.CoreCompileInputs.cache
+C:\Users\FrankV22\source\repos\FloatingText\FloatingText\obj\Debug\net6.0\FloatingText.dll
+C:\Users\FrankV22\source\repos\FloatingText\FloatingText\obj\Debug\net6.0\refint\FloatingText.dll
+C:\Users\FrankV22\source\repos\FloatingText\FloatingText\obj\Debug\net6.0\FloatingText.pdb
+C:\Users\FrankV22\source\repos\FloatingText\FloatingText\obj\Debug\net6.0\ref\FloatingText.dll
