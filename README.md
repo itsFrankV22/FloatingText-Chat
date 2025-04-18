@@ -1,6 +1,9 @@
 
 # 🗨️ FloatingText-Chat
 
+> [!NOTE]
+> If you speak English visit [README_EN.md](./README_ENGLISH.mc)
+
 **TShock Plugin:** Muestra mensajes flotantes (burbujas de chat) sobre los jugadores cuando envían mensajes en el chat.
 
 > Compatible con:  
