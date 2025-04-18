@@ -66,21 +66,6 @@ TShock/Config/FloatingText/config.json
 
 ---
 
-## 🔐 Endpoint Info
-
-The plugin includes an optional "initialization request" feature.  
-This sends **non-sensitive info** (server name, world name, port, validation status) to the plugin developer for:
-- Usage tracking
-- Debugging help
-- Optional analytics
-
-**Can be disabled** in the config file:
-```json
-"EnableInitializationRequest": false
-```
-
----
-
 ## 🛠️ Permissions
 
 - `floatingtext.quiet`: Allows players to use the `/quiet` command to send floating messages silently.
