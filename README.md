@@ -67,19 +67,6 @@ Este archivo se genera automáticamente en `TShock/FloatingText/config.json`. Pu
 
 ---
 
-## 🔐 ¿Qué hace el endpoint de inicialización?
-
-El plugin envía **una solicitud HTTP (GET)** opcional con datos básicos del servidor (nombre, puerto, mundo, etc.) a un endpoint del desarrollador.
-
-**Objetivo:**
-- Ayuda al desarrollador a recopilar estadísticas de uso y detectar problemas comunes.
-
-**Importante:**
-- **No** se envía información personal ni sensible.
-- Esta funcionalidad puede **desactivarse** desde el archivo de configuración con `"EnableInitializationRequest": false`.
-
----
-
 ## 🧪 Comando incluido
 
 | Comando | Descripción | Permiso necesario |
