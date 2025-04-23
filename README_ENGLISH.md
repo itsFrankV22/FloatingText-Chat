@@ -3,7 +3,7 @@
 **TShock Plugin**: Displays floating chat bubbles above players when they send messages in chat.
 
 ✅ Now compatible with **[Floating-ItemDecoPlugin](https://github.com/itsFrankV22/ItemsDeco-Plugin)**  
-🌐 Prefer reading in Spanish? Visit the Spanish version: [README_SPANISH.md](https://github.com/itsFrankV22/FloatingText-Chat/blob/main/README_SPANISH.md)
+🌐 Prefieres Leerlo en español, Visita esto en Español: [README_SPANISH.md](https://github.com/itsFrankV22/FloatingText-Chat/blob/main/README_SPANISH.md)
 
 ---
 
