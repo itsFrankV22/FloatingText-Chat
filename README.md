@@ -9,8 +9,6 @@
 > Compatible con:  
 > ✅ **[Floating-ItemDecoPlugin](https://github.com/itsFrankV22/ItemsDeco-Plugin)**
 
-📄 Si hablas español, visita este repositorio en idioma: **[README en Español](https://github.com/itsFrankV22/FloatingText-Chat/blob/main/README_SPANISH.md)**
-
 ---
 
 ## 🚀 Características
