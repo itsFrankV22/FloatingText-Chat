@@ -4128,19 +4128,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\FrankV22\\.nuget\\packages\\": {}
+    "C:\\Users\\FrankV22\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText\\FloatingText.csproj",
+      "projectUniqueName": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText-Chat\\FloatingText\\FloatingText.csproj",
       "projectName": "FloatingText",
-      "projectPath": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText\\FloatingText.csproj",
+      "projectPath": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText-Chat\\FloatingText\\FloatingText.csproj",
       "packagesPath": "C:\\Users\\FrankV22\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText\\obj\\",
+      "outputPath": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText-Chat\\FloatingText\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\FrankV22\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4165,7 +4170,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net6.0": {
@@ -4196,8 +4202,30 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"TShock\" 5.2.0 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-f8mx-cwfh-7hr2",
+      "libraryId": "TShock",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"TShock\" 5.2.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-hvm9-wc8j-mgrc",
+      "libraryId": "TShock",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

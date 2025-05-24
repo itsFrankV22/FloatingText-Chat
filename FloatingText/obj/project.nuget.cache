@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jBH4AIChy3U=",
+  "dgSpecHash": "34XMC9Zj2Pk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText\\FloatingText.csproj",
+  "projectFilePath": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText-Chat\\FloatingText\\FloatingText.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FrankV22\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\FrankV22\\.nuget\\packages\\gettext.net\\1.7.14\\gettext.net.1.7.14.nupkg.sha512",
@@ -80,5 +80,30 @@
     "C:\\Users\\FrankV22\\.nuget\\packages\\tsapi\\5.2.0\\tsapi.5.2.0.nupkg.sha512",
     "C:\\Users\\FrankV22\\.nuget\\packages\\tshock\\5.2.0\\tshock.5.2.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "El paquete \"TShock\" 5.2.0 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-f8mx-cwfh-7hr2",
+      "projectPath": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText-Chat\\FloatingText\\FloatingText.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText-Chat\\FloatingText\\FloatingText.csproj",
+      "libraryId": "TShock",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"TShock\" 5.2.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-hvm9-wc8j-mgrc",
+      "projectPath": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText-Chat\\FloatingText\\FloatingText.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText-Chat\\FloatingText\\FloatingText.csproj",
+      "libraryId": "TShock",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

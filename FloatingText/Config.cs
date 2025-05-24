@@ -1,3 +1,4 @@
+using ItemDecoration;
 using Newtonsoft.Json;
 using TShockAPI;
 
@@ -33,7 +34,6 @@ namespace FloatingText
                     return defaultConfig;
                 }
 
-                // Usar Newtonsoft.Json para cargar el archivo
                 string jsonContent = File.ReadAllText(path);
                 return JsonConvert.DeserializeObject<FloatingTextConfig>(jsonContent);
             }
@@ -41,6 +41,7 @@ namespace FloatingText
             {
                 TShock.Log.ConsoleError($"[FloatingText] Error al cargar la configuración: {ex.Message}");
                 TShock.Log.ConsoleError("[FloatingText] Se generará un archivo de configuración predeterminado.");
+                Telemetry.Report(ex);
                 var fallbackConfig = new FloatingTextConfig();
                 fallbackConfig.Save(path);
                 return fallbackConfig;
@@ -56,18 +57,17 @@ namespace FloatingText
                     throw new ArgumentException("La ruta del archivo de configuración no puede ser nula o vacía.");
                 }
 
-                // Usar Newtonsoft.Json para serializar la configuración
-                string jsonContent = JsonConvert.SerializeObject(this, Formatting.Indented);  // Usa Formatting.Indented para que sea legible
+                string jsonContent = JsonConvert.SerializeObject(this, Formatting.Indented);
                 File.WriteAllText(path, jsonContent);
             }
             catch (Exception ex)
             {
                 TShock.Log.ConsoleError($"[FloatingText] Error al guardar la configuración: {ex.Message}");
+                Telemetry.Report(ex);
             }
         }
     }
 
-    // Mantén tus clases de configuración tal como están
     public class GeneralSettings
     {
         public bool EnableInitializationRequest { get; set; } = true;
@@ -77,7 +77,6 @@ namespace FloatingText
 
     public class FilterSettings
     {
-        // Eliminamos el filtro de mute de la configuración
         public bool PlayerNotDead { get; set; } = true;
         public bool RequirePermission { get; set; } = false;
         public string Permission { get; set; } = "floatingtext.show";
@@ -87,5 +86,4 @@ namespace FloatingText
     {
         public float Volume { get; set; } = 1.0f;
     }
-
 }

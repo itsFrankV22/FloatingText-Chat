@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FloatingText")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef99e97508be4e9fcbada7a6fde92532b0e7a353")]
 [assembly: System.Reflection.AssemblyProductAttribute("FloatingText")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FloatingText")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

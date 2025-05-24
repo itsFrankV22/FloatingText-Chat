@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText\\FloatingText.csproj": {}
+    "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText-Chat\\FloatingText\\FloatingText.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText\\FloatingText.csproj": {
+    "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText-Chat\\FloatingText\\FloatingText.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText\\FloatingText.csproj",
+        "projectUniqueName": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText-Chat\\FloatingText\\FloatingText.csproj",
         "projectName": "FloatingText",
-        "projectPath": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText\\FloatingText.csproj",
+        "projectPath": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText-Chat\\FloatingText\\FloatingText.csproj",
         "packagesPath": "C:\\Users\\FrankV22\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText\\obj\\",
+        "outputPath": "C:\\Users\\FrankV22\\source\\repos\\FloatingText\\FloatingText-Chat\\FloatingText\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\FrankV22\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
@@ -70,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
