@@ -9,6 +9,8 @@
 > Compatible con:  
 > ✅ **[Floating-ItemDecoPlugin](https://github.com/itsFrankV22/ItemsDeco-Plugin)**
 
+Ahora usamos Telemetria, al usar este y otros de mis plugins aceptas cualquier termino, ninguno de sus datos seran publicos
+
 ---
 
 ## 🚀 Características
