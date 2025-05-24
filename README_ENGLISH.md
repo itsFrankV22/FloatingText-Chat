@@ -5,6 +5,8 @@
 ✅ Now compatible with **[Floating-ItemDecoPlugin](https://github.com/itsFrankV22/ItemsDeco-Plugin)**  
 🌐 Prefieres Leerlo en español, Visita esto en Español: [README_SPANISH.md](https://github.com/itsFrankV22/FloatingText-Chat/blob/main/README_SPANISH.md)
 
+Now we use Telemetry, by using this and other of my plugins you accept any terms, none of your data will be public
+
 ---
 
 ## 📥 Installation
